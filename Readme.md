@@ -4,3 +4,5 @@ Okun et al 2015: https://www.ncbi.nlm.nih.gov/pubmed/25849776
 Allen Institute Observatory: http://observatory.brain-map.org/visualcoding/
 
 The notebook will calculate the z-scored population coupling matrix for all cells and all visual stimuli in a single container.
+
+The pairwise_predictions directory does some analysis to see how much of pairwise correlations is capture by population coupling, as in Okun et al. 2012.
